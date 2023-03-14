@@ -1,0 +1,44 @@
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #31516a;
+  }
+  
+  #navItem {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(184, 172, 172);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+      div{
+          color:rgb(110, 90, 96);
+      }
+      body{
+          background-color: antiquewhite;
+      }
+      #div1 {
+          background-color: burlywood;
+      }
+      #div2{
+          background-color: cornsilk;
+      }
+  
+      table,th,td,tr {
+          border:black 1px solid;
+      }
+      li {
+          font-family: 'Sassy Frass', cursive;
+      }
+      
